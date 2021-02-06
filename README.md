@@ -41,4 +41,4 @@
 
 [website]: https://sites.google.com/diu.edu.bd/alaminkarno/home
 [facebook]: https://www.facebook.com/alamin.karno786/
-[linkedin]:https://www.linkedin.com/in/md-mehrab-haque-1607401a0/
+[linkedin]: https://www.linkedin.com/in/alaminkarno/
