@@ -13,9 +13,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="mehrab-haque" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mehrab-haque | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Md. Al-Amin" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Md. Al-Amin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Md. Al-Amin | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 
 <br /> 
@@ -39,6 +39,6 @@
 <img align="left" alt="Md Al-Amin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=karno786&show_icons=true" />    &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=karno786&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: https://buet-edu-lang-eng.netlify.com/
-[facebook]: https://www.facebook.com/mdmehrab.haque.9/
+[website]: https://sites.google.com/diu.edu.bd/alaminkarno/home
+[facebook]: https://www.facebook.com/alamin.karno786/
 [linkedin]:https://www.linkedin.com/in/md-mehrab-haque-1607401a0/
