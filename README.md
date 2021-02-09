@@ -39,7 +39,6 @@
 <img align="left" alt="Md Al-Amin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=karno786&show_icons=true" />    &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=karno786&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karno786)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karno786)](https://github.com/anuraghazra/github-readme-stats)
