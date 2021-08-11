@@ -1,4 +1,3 @@
-[![HitCount](http://hits.dwyl.com/karno786/karno786.svg)](http://hits.dwyl.com/karno786/karno786)
 <img src="https://komarev.com/ghpvc/?username=karno786"> 
 ### Hi there, I'm Md. Al-Amin 👋
 
