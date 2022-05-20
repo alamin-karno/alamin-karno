@@ -4,7 +4,7 @@
 
 
 - 💻 I ~like~ **love** coding
-- 🌱 &ensp;I’m currently learning Flutter ❤️
+- 🌱 I’m currently learning Flutter ❤️
 - 🔭 I’m currently working with Rokomari.com in Software Department.
 - 👯 I have successfully worked on production level moabile app projects.
 - 👯 I’m looking to collaborate on opensource and group projects.
