@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=karno786"> 
+<img src="https://komarev.com/ghpvc/?username=karno786"> [![wakatime](https://wakatime.com/badge/user/ab11dbf6-ab00-406b-9eaa-df7edd6c14f5.svg)](https://wakatime.com/@ab11dbf6-ab00-406b-9eaa-df7edd6c14f5)
 
 <h1 align="center"> Hi 👋, I'm <a href="https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1">Md. Al-Amin</a></h1>
 
