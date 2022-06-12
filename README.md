@@ -46,9 +46,9 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <br /><br /><br />
 
-<img align="left" alt="Md Al-Amin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=karno786&show_icons=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=karno786&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=karno786)
+<img align="left" alt="Md Al-Amin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alamin-karno&show_icons=true" />    &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=alamin-karno&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=alamin-karno)
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karno786)](https://github.com/anuraghazra/github-readme-stats)
@@ -57,6 +57,6 @@
 [website]: https://sites.google.com/diu.edu.bd/alaminkarno/home
 [twitter]: https://twitter.com/alamin_karno
 [youtube]: https://youtube.com/alaminkarno
-[github]: https://github.com/karno786
+[github]: https://github.com/alamin-karno
 [facebook]: https://www.facebook.com/alamin.karno786/
 [linkedin]: https://www.linkedin.com/in/alaminkarno/
