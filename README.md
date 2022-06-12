@@ -17,7 +17,7 @@
 [![Linkedin: Md. Al-Amin](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/alaminkarno/)][linkedin]
 
 
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=karno786)
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alamin-karno)
 
 
 ### Connect with me:
