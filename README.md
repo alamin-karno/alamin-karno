@@ -60,3 +60,5 @@
 [github]: https://github.com/alamin-karno
 [facebook]: https://www.facebook.com/alamin.karno786/
 [linkedin]: https://www.linkedin.com/in/alaminkarno/
+
+[![@alaminkarno's Holopin board](https://holopin.io/api/user/board?user=alaminkarno)](https://holopin.io/@alaminkarno)
