@@ -3,12 +3,12 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1">Md. Al-Amin</a></h1>
 
 
-💻 I love coding and building impactful products.
-🌱 Currently diving deeper into Flutter and crafting smooth mobile experiences.
-🔭 Working at Vivasoft Limited as a Software Engineer L-II.
-📱 Successfully delivered multiple production-level mobile app projects.
-🤝 Open to collaborating on open-source and team-driven projects.
-🚀 Always eager to learn, experiment, and grow with the community.
+- 💻 I love coding and building impactful products.
+- 🌱 Currently diving deeper into Flutter and crafting smooth mobile experiences.
+- 🔭 Working at Vivasoft Limited as a Software Engineer L-II.
+- 📱 Successfully delivered multiple production-level mobile app projects.
+- 🤝 Open to collaborating on open-source and team-driven projects.
+- 🚀 Always eager to learn, experiment, and grow with the community.
 
 <br> 
 
