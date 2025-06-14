@@ -3,11 +3,12 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1">Md. Al-Amin</a></h1>
 
 
-- 💻 I ~like~ **love** coding
-- 🌱 I’m currently learning Flutter ❤️
-- 🔭 I’m currently working with Rokomari.com in Software Department.
-- 👯 I have successfully worked on production level moabile app projects.
-- 👯 I’m looking to collaborate on opensource and group projects.
+💻 I love coding and building impactful products.
+🌱 Currently diving deeper into Flutter and crafting smooth mobile experiences.
+🔭 Working at Vivasoft Limited as a Software Engineer L-II.
+📱 Successfully delivered multiple production-level mobile app projects.
+🤝 Open to collaborating on open-source and team-driven projects.
+🚀 Always eager to learn, experiment, and grow with the community.
 
 <br> 
 
@@ -58,7 +59,7 @@
 [twitter]: https://twitter.com/alamin_karno
 [youtube]: https://youtube.com/alaminkarno
 [github]: https://github.com/alamin-karno
-[facebook]: https://www.facebook.com/alamin.karno786/
+[facebook]: https://www.facebook.com/alamin.karno/
 [linkedin]: https://www.linkedin.com/in/alaminkarno/
 
 [![@alaminkarno's Holopin board](https://holopin.io/api/user/board?user=alaminkarno)](https://holopin.io/@alaminkarno)
